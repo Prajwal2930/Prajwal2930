@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Prajwal Kunte 👋</h1>
-<h3 align="center">Aspiring Cloud & DevOps Engineer | AWS · Docker · Kubernetes · Jenkins</h3>
+<h3 align="center">Ambitious Cloud & DevOps Engineer | AWS · Docker · Kubernetes · Jenkins</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Automating+infrastructure+with+code;Building+scalable+cloud+systems+on+AWS;CI%2FCD+%7C+Containers+%7C+Linux+%7C+Networking" alt="Typing SVG" />
