@@ -105,6 +105,3 @@ Built full-stack features with **Vue.js / Node.js / MongoDB**, containerized dev
   <i>⭐ "Automate everything that can be automated." ⭐</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prajwal2930&label=Profile%20views&color=00ADD8&style=flat" alt="profile views" />
-</p>
