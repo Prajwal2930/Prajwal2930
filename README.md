@@ -84,10 +84,9 @@ Built full-stack features with **Vue.js / Node.js / MongoDB**, containerized dev
 
 ---
 
-
----
-
 <p align="center">
   <i>⭐ "Automate everything that can be automated." ⭐</i>
 </p>
+
+---
 
